@@ -1,0 +1,181 @@
+html {
+   background:url(bg_new.jpg) no-repeat top center #97cae4;
+    margin:0.0px;
+padding:0.0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12.0px;
+color: #3b5564;
+}
+h3 {
+    margin: 0.0px;
+    padding: 0.0px;
+}
+body {
+    max-width: 860.0px;
+    min-width: 360.0px;
+    margin: 0.0px auto;
+    background: #F8F8F8;
+    padding:0.0px 5.0px;
+    text-align:center;
+}
+#main_container{
+width:860.0px;
+height:auto;
+margin:auto;
+background-color:white;
+
+}
+.header{
+width:900.0px;
+height:150.0px;
+margin:auto;
+}
+
+#logo{
+padding:30.0px 0.0 0.0 20.0px;
+float:left;
+} 
+ 
+.page-title  {
+    font-size:120.0%;
+    text-align: left;
+    margin:10.0px 0.0px;
+}
+.header-container {
+    text-align: left;
+    border-bottom: 1.0px solid #ccc;
+    position: relative;
+    background: #5f5f5f;
+    color: white;
+}
+ 
+.footer-container {
+    text-align: center;
+    margin-top: 10.0px;
+    padding: 5.0px 0.0px 0.0px 0.0px;
+    border-top: 1.0px solid #ccc;
+}
+.menu-container {
+    text-align: right;
+    margin: 10.0px 5.0px;
+}
+.menu-container a {
+    margin: 5.0px 5.0px 5.0px 10.0px;
+    color: #004d99;
+    font-weight: bold;
+    text-decoration: none;
+}
+ 
+.site-name {
+    font-size:200.0%;
+    margin:10.0px 10.0px 10.0px 0.0px;
+    padding: 5.0px;
+}
+ 
+.container  {
+    margin: 5.0px 0.0px;
+}
+ 
+.demo-container, .login-container, .account-container {
+    padding: 5.0px;
+    border: 1.0px solid #ccc;
+    text-align:left;
+    margin:20.0px 0.0px;
+}
+ 
+.customer-info-container {
+    text-align: left;
+    border: 1.0px solid #ccc;
+    padding: 0.0px 5.0px;
+}
+.product-preview-container {
+    border: 1.0px solid #ccc;
+    padding: 5.0px;
+    width: 250.0px;
+    margin: 10.0px ;
+    display: inline-block;
+    text-align:left;
+}
+ 
+.product-preview-container input {
+    width: 50.0px;
+}
+ 
+ 
+.product-image {
+    width: 120.0px;
+    height: 80.0px;
+}
+ 
+ul {
+    list-style-type: none;
+    padding-left: 5.0px;
+    margin:5.0px;
+}
+ 
+ 
+.navi-item {
+    margin: 5.0px 5.0px 5.0px 20.0px;
+}
+ 
+.button-update-sc {
+    color: red;
+    margin: 5.0px 5.0px 5.0px 20.0px;
+}
+ 
+.button-send-sc {
+    color: red;
+    margin: 5.0px 5.0px 5.0px 20.0px;
+}
+ 
+.error-message {
+    font-size: 90.0%;
+    color: red;
+    font-style: italic;
+}
+ 
+.price {
+    color: blue;
+    font-weight: bold;
+}
+ 
+.subtotal {
+    color: red;
+    font-weight: bold;
+}
+ 
+.total {
+    color: red;
+    font-weight: bold;
+    font-size: 120.0%;
+}
+ 
+table td {
+    padding: 5.0px;
+}
+
+/*-----------------------------footer------------------*/
+
+#footer{
+width:860px;
+height:80px;
+color:#508aa1;
+background-color:#e8eff2;
+}
+.copyright{
+float:left;
+text-align:center;
+padding:0px 0 0 0px;
+}
+.center_footer{
+color:#8B0000;
+font-size:14px;
+font-weight:bold;
+width:400px;
+height:300px;
+float:right;
+padding:25px 25px 0px 200px;
+}
+
+
+
